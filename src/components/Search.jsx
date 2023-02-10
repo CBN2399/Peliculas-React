@@ -1,4 +1,5 @@
 import styles from "./Search.module.css";
+import { FaSearch } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router";
 import { useQuery } from "../hooks/useQuery";
@@ -27,7 +28,9 @@ export function Search() {
           value={searchText}
           onChange={(e) => setSearchText(e.target.value)}
         />
-        <button className={styles.searchButton} type="submit"></button>
+        <button className={styles.searchButton} type="submit">
+        <FaSearch size={20} />
+        </button>
       </div>
     </form>
   );
