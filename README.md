@@ -11,7 +11,7 @@ Follow the steps below to download and run the Movie-React project locally:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/Movie-React.git
+   git clone https://github.com/CBN2399/Peliculas-React.git
    ```
 
 2. Navigate to the project directory:
