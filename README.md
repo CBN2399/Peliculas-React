@@ -1,6 +1,6 @@
 # Movie-React
 
-![React](https://img.shields.io/badge/React-17.0.2-blue.svg)
+![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 
 Movie-React is a web application developed in React for browsing and discovering movies. It provides a user-friendly interface to search for movies, view details, and save them to watch later. The application is currently under active development.
 
@@ -77,6 +77,6 @@ Movie-React is released under the [MIT License](https://opensource.org/licenses/
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to the project maintainer at `your-email@example.com`. We would love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to the project maintainer at `cesarbartolomenavarro2399@gmail.com`. We would love to hear from you!
 
 **Note:** This project is a work in progress, and new features and improvements are being actively developed. Stay tuned for updates and future releases.
