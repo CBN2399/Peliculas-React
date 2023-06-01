@@ -1,8 +1,8 @@
-# Movie-React
+# Peliculas-React
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 
-Movie-React is a web application developed in React for browsing and discovering movies. It provides a user-friendly interface to search for movies, view details, and save them to watch later. The application is currently under active development.
+Peliculas-React is a web application developed in React for browsing and discovering movies. It provides a user-friendly interface to search for movies, view details, and save them to watch later. The application is currently under active development.
 
 ## Installation
 
