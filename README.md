@@ -17,7 +17,7 @@ Follow the steps below to download and run the Movie-React project locally:
 2. Navigate to the project directory:
 
    ```
-   cd Movie-React
+   cd Peliculas-React
    ```
 
 3. Install the required dependencies using a package manager such as npm or yarn:
